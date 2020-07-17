@@ -1,0 +1,101 @@
+Customer;Method of Payment;Items;Discount ;Sales;Gender;Marital Status;Age;Desconto?;Desconto?
+1;Discover;1;0.00;39.50;Male;Married;32;Não;Não
+2;Proprietary Card;1;25.60;102.40;Female;Married;36;Sim;Sim
+3;Proprietary Card;1;0.00;22.50;Female;Married;32;Não;Não
+4;Proprietary Card;5;121.10;100.40;Female;Married;28;Sim;Sim
+5;Mastercard;2;0.00;54.00;Female;Married;34;Não;Não
+6;Mastercard;1;0.00;44.50;Female;Married;44;Não;Não
+7;Proprietary Card;2;19.50;78.00;Female;Married;30;Sim;Sim
+8;Visa;1;0.00;22.50;Female;Married;40;Não;Não
+9;Proprietary Card;2;22.48;56.52;Female;Married;46;Sim;Sim
+10;Proprietary Card;1;0.00;44.50;Female;Married;36;Não;Não
+11;Proprietary Card;1;0.00;29.50;Female;Married;48;Não;Não
+12;Proprietary Card;1;7.90;31.60;Female;Married;40;Sim;Sim
+13;Visa;9;103.60;160.40;Female;Married;40;Sim;Sim
+14;Visa;2;24.50;64.50;Female;Married;46;Sim;Sim
+15;Visa;1;0.00;49.50;Male;Single;24;Não;Não
+16;Proprietary Card;2;12.60;71.40;Male;Single;36;Sim;Sim
+17;Proprietary Card;3;53.00;94.00;Female;Single;22;Sim;Sim
+18;Discover;3;0.00;54.50;Female;Married;40;Não;Não
+19;Mastercard;2;19.00;38.50;Female;Married;32;Sim;Sim
+20;Proprietary Card;6;32.20;44.80;Female;Married;56;Sim;Sim
+21;Proprietary Card;1;7.90;31.60;Female;Single;28;Sim;Sim
+22;Proprietary Card;4;29.67;70.82;Female;Married;38;Sim;Sim
+23;American Express;7;66.50;266.00;Female;Married;50;Sim;Sim
+24;Proprietary Card;2;0.00;74.00;Female;Married;42;Não;Não
+25;Visa;2;14.50;39.50;Male;Married;48;Sim;Sim
+26;Proprietary Card;1;9.48;30.02;Female;Married;60;Sim;Sim
+27;Proprietary Card;1;0.00;44.50;Female;Married;54;Não;Não
+28;Proprietary Card;5;48.20;192.80;Female;Single;42;Sim;Sim
+29;Proprietary Card;3;37.30;71.20;Female;Married;32;Sim;Sim
+30;Proprietary Card;1;4.50;18.00;Female;Married;70;Sim;Sim
+31;Mastercard;2;15.80;63.20;Female;Married;28;Sim;Sim
+32;Proprietary Card;1;0.00;75.00;Female;Married;52;Não;Não
+33;Proprietary Card;3;15.80;63.20;Female;Married;44;Sim;Sim
+34;Proprietary Card;1;0.00;40.00;Female;Married;34;Não;Não
+35;Mastercard;5;10.00;105.50;Female;Married;56;Sim;Sim
+36;Mastercard;1;0.00;29.50;Male;Single;36;Não;Não
+37;Visa;2;0.00;102.50;Female;Single;42;Não;Não
+38;Proprietary Card;6;14.50;117.50;Female;Married;50;Sim;Sim
+39;Proprietary Card;5;25.02;13.23;Female;Married;44;Sim;Sim
+40;Proprietary Card;2;0.00;52.50;Female;Married;58;Não;Não
+41;Proprietary Card;13;62.70;198.80;Female;Married;42;Sim;Sim
+42;Visa;4;16.50;19.50;Female;Married;46;Sim;Sim
+43;Proprietary Card;2;0.00;123.50;Female;Married;48;Não;Não
+44;Proprietary Card;1;15.60;62.40;Female;Married;54;Sim;Sim
+45;Proprietary Card;2;35.20;23.80;Female;Married;38;Sim;Sim
+46;Proprietary Card;2;19.40;39.60;Female;Married;60;Sim;Sim
+47;Mastercard;1;0.00;25.00;Female;Married;46;Não;Não
+48;Proprietary Card;3;20.11;63.64;Female;Married;30;Sim;Sim
+49;Proprietary Card;1;4.68;14.82;Female;Married;32;Sim;Sim
+50;Mastercard;9;94.30;145.20;Female;Married;46;Sim;Sim
+51;Proprietary Card;6;58.88;176.62;Female;Married;38;Sim;Sim
+52;Proprietary Card;5;51.70;118.80;Male;Married;68;Sim;Sim
+53;Discover;1;0.00;58.00;Female;Single;78;Não;Não
+54;Visa;2;0.00;74.00;Female;Single;20;Não;Não
+55;Mastercard;2;0.00;49.50;Female;Married;32;Não;Não
+56;Proprietary Card;3;35.40;141.60;Female;Married;38;Sim;Sim
+57;Proprietary Card;6;56.40;123.10;Female;Married;54;Sim;Sim
+58;Proprietary Card;2;20.10;80.40;Female;Married;48;Sim;Sim
+59;Mastercard;4;28.30;65.20;Female;Married;46;Sim;Sim
+60;Proprietary Card;4;19.50;113.00;Female;Single;50;Sim;Sim
+61;Proprietary Card;1;19.20;108.80;Female;Married;46;Sim;Sim
+62;Proprietary Card;3;91.48;59.91;Female;Single;30;Sim;Sim
+63;Proprietary Card;5;37.40;53.60;Female;Married;54;Sim;Sim
+64;Proprietary Card;1;7.90;31.60;Female;Single;42;Sim;Sim
+65;Proprietary Card;2;9.50;49.50;Female;Married;48;Sim;Sim
+66;Proprietary Card;1;9.90;39.60;Female;Married;62;Sim;Sim
+67;Proprietary Card;2;29.50;59.50;Female;Married;34;Sim;Sim
+68;Proprietary Card;5;36.70;146.80;Female;Married;28;Sim;Sim
+69;Proprietary Card;2;11.80;47.20;Male;Married;46;Sim;Sim
+70;Proprietary Card;8;18.95;95.05;Female;Married;54;Sim;Sim
+71;Proprietary Card;5;57.18;155.32;Female;Married;30;Sim;Sim
+72;Mastercard;4;10.00;58.00;Female;Married;32;Sim;Sim
+73;Proprietary Card;1;0.00;69.00;Female;Single;22;Não;Não
+74;Proprietary Card;2;15.50;46.50;Female;Married;32;Sim;Sim
+75;Proprietary Card;2;14.28;45.22;Female;Married;74;Sim;Sim
+76;Proprietary Card;4;46.26;84.74;Female;Married;62;Sim;Sim
+77;Proprietary Card;2;0.00;39.00;Female;Married;42;Não;Não
+78;Proprietary Card;4;35.11;111.14;Female;Married;28;Sim;Sim
+79;Proprietary Card;3;31.20;86.80;Female;Married;38;Sim;Sim
+80;Discover;2;0.00;89.00;Female;Married;54;Não;Não
+81;Mastercard;2;19.50;78.00;Female;Married;68;Sim;Sim
+82;Proprietary Card;6;29.31;53.20;Female;Single;30;Sim;Sim
+83;Visa;4;14.50;58.50;Female;Married;36;Sim;Sim
+84;Proprietary Card;3;19.50;46.00;Female;Married;44;Sim;Sim
+85;Visa;2;0.00;37.50;Female;Married;44;Não;Não
+86;Proprietary Card;1;5.20;20.80;Female;Married;62;Sim;Sim
+87;Mastercard;6;0.00;144.00;Female;Single;48;Não;Não
+88;Proprietary Card;4;0.00;107.00;Female;Married;36;Não;Não
+89;Proprietary Card;1;7.90;31.60;Female;Single;20;Sim;Sim
+90;Proprietary Card;6;46.40;57.60;Female;Married;42;Sim;Sim
+91;Proprietary Card;4;158.30;95.20;Female;Married;54;Sim;Sim
+92;Proprietary Card;1;7.08;22.42;Female;Married;54;Sim;Sim
+93;Proprietary Card;5;0.00;159.75;Female;Married;72;Não;Não
+94;Proprietary Card;17;33.00;229.50;Female;Married;30;Sim;Sim
+95;American Express;3;0.00;66.00;Female;Married;46;Não;Não
+96;Mastercard;1;0.00;39.50;Female;Married;44;Não;Não
+97;Proprietary Card;9;82.75;253.00;Female;Married;30;Sim;Sim
+98;Proprietary Card;10;18.00;287.59;Female;Married;52;Sim;Sim
+99;Proprietary Card;2;31.40;47.60;Female;Married;30;Sim;Sim
+100;Proprietary Card;1;11.06;28.44;Female;Married;44;Sim;Sim
